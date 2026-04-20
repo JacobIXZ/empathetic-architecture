@@ -27,6 +27,7 @@ Agents have:
 - memory
 - trust
 - personality traits
+- energy (limits how often agents can act)
 
 They can:
 - search for food
